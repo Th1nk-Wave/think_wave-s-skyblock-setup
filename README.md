@@ -1,4 +1,4 @@
-#disclaimer
+# disclaimer
 i dont own any of these mods, this is simply a collection of mods that i use to play hypixel skyblock that i put together in this repo so my freinds could easily copy it.
 
 # think_wave-s-skyblock-setup
